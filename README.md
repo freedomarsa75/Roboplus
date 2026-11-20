@@ -1,8 +1,8 @@
-# OpenPulse AI
+# Telegram news assistant
 
 **Bilingual (Persian/English) open-source Telegram news assistant.**
 
-OpenPulse AI is a modular Python project for collecting news from permitted sources, filtering duplicates, preparing AI-assisted summaries, and publishing reviewed updates to Telegram.
+Telegram news assistant is a modular Python project for collecting news from permitted sources, filtering duplicates, preparing AI-assisted summaries, and publishing reviewed updates to Telegram.
 
 > **Current status:** Phase 1 foundation. The Telegram bot skeleton and project tooling are included. News ingestion, AI summarization, persistence, and publishing workflows will be implemented in later phases.
 
@@ -107,7 +107,7 @@ tests/                   # Automated tests
 
 ## زبان فارسی
 
-**OpenPulse AI** یک پروژه متن‌باز و دوزبانه برای ساخت دستیار خبری تلگرام است. هدف پروژه جمع‌آوری خبر از منابع مجاز، حذف موارد تکراری، خلاصه‌سازی فارسی و انگلیسی با کمک هوش مصنوعی و انتشار کنترل‌شده در تلگرام است.
+**Telegram news assistant** یک پروژه متن‌باز و دوزبانه برای ساخت دستیار خبری تلگرام است. هدف پروژه جمع‌آوری خبر از منابع مجاز، حذف موارد تکراری، خلاصه‌سازی فارسی و انگلیسی با کمک هوش مصنوعی و انتشار کنترل‌شده در تلگرام است.
 
 **وضعیت فعلی:** مرحله اول؛ زیرساخت مخزن، اسکلت ربات تلگرام، تنظیمات و تست خودکار آماده شده‌اند. قابلیت دریافت خبر، اتصال کامل هوش مصنوعی، پایگاه داده و انتشار اخبار در مراحل بعدی اضافه می‌شوند.
 
