@@ -96,14 +96,6 @@ tests/                   # Automated tests
 - Require human review before publishing until moderation and quality controls are proven.
 - Store secrets in environment variables or a secrets manager, never in source code.
 
-## Roadmap
-
-- [x] Phase 1: repository foundation, configuration, bot skeleton, CI
-- [ ] Phase 2: source adapters and normalized news model
-- [ ] Phase 3: deduplication, persistence, and filtering
-- [ ] Phase 4: bilingual AI summaries and translation
-- [ ] Phase 5: review queue and Telegram publishing
-- [ ] Phase 6: deployment, monitoring, documentation, and community release
 
 ## زبان فارسی
 
